@@ -1,7 +1,8 @@
-# Ignore everything in this directory
 target
 .classpath
 .settings
 .project
-*.i??
+*.iml
+*.iws
+*.ipr
 .idea
